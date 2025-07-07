@@ -18,3 +18,7 @@
 - JavaScript  
 - Gemini API (for AI-powered summarization)
 
+  ### 🔹 Summary Example on a News Article
+
+![Summary on Article](screenshots/summary-example.png)
+
