@@ -17,6 +17,7 @@
 - CSS  
 - JavaScript  
 - Gemini API (for AI-powered summarization)
+ ---
 
   ### 🔹 Summary Example on a News Article
 
