@@ -20,5 +20,5 @@
 
   ### 🔹 Summary Example on a News Article
 
-![Summary on Article](screenshots/summary-example.png)
+![Summary on Article](https://github.com/paras-Git06/A.I-Summarizer/blob/fc423f31a95b976112021356a8b2b8f67f8e99f8/Screenshot.png)
 
